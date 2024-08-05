@@ -7,3 +7,5 @@ This project visualizes car data and analytics. The dashboad includes a histogra
 4. Run Application via Streamlit
 ## Usage
 - The checkbox is used to toggle between the scatter plot and histogram
+## Render URL
+https://sp4-project.onrender.com
